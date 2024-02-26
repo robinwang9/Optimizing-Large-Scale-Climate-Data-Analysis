@@ -2,9 +2,9 @@
 # BIG DATA
 ## Dask
 
-*Handout date*: 2023-03-22
+*Start date*: 2023-03-22
 
-*results deadline*: 2023-04-07 23:59ET
+*End date*: 2023-04-07 23:59ET
 
 ### Contents:
  - [Part 1. Dask on Greene](#part-1-dask-and-Jupyter-on-greene)
